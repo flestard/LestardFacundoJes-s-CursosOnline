@@ -1,11 +1,11 @@
 # LestardFacundoJesus-TechackCursosOnline
-En este repositorio se alojaran las activiades realizadas durante la Diplomatura en Desarrollo Full Stack del instituto Icaro
+En este repositorio se alojaran las actividades realizadas durante la Diplomatura en Desarrollo Full Stack del instituto Icaro
 
 # Techack Cursos Online
-es un tienda de comercio electronica de cursos de Hacking Etíco
+es una tienda de comercio electrónico de cursos de Hacking Ético
 
 # Tipografía
-se utilizará la tipografica googlefont tipo Lato. 
+se utilizará la tipografía Google Font tipo Lato.
 ![](https://github.com/flestard/LestardFacundoJesus-CursosOnline/blob/main/recursos/img/fonts.png)
 
 # Nuestros Logos:
@@ -15,5 +15,5 @@ se utilizará la tipografica googlefont tipo Lato.
 # Nuestra Paleta de Colores:
 ![](https://github.com/flestard/LestardFacundoJesus-CursosOnline/blob/main/recursos/img/Paletadecolores.png)  
 
-codigos:#f7f3cf #c2e4cb #36cecc #27b1bf #176585 
+códigos:#f7f3cf #c2e4cb #36cecc #27b1bf #176585 
 

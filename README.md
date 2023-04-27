@@ -8,9 +8,8 @@ es una tienda de comercio electrónico de cursos de Hacking Ético
 se utilizará la tipografía Google Font tipo Lato.
 ![](https://github.com/flestard/LestardFacundoJesus-CursosOnline/blob/main/recursos/img/fonts.png)
 
-# Nuestros Logos:
+# Nuestro Logo:
 ![](https://github.com/flestard/LestardFacundoJesus-CursosOnline/blob/main/recursos/img/logos/TecHack%20-%20Logotipo%20Final.jpg)
-![](https://github.com/flestard/LestardFacundoJesus-CursosOnline/blob/main/recursos/img/logos/TecHack%20-%20Logotipo%20Final.png)
 
 # Nuestra Paleta de Colores:
 ![](https://github.com/flestard/LestardFacundoJesus-CursosOnline/blob/main/recursos/img/Paletadecolores.png)  
